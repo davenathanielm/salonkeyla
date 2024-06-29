@@ -1,0 +1,8 @@
+CRITICAL - 2023-10-17 10:43:03 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Auth.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 66, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Auth->auth()
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}

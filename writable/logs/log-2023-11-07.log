@@ -1,0 +1,525 @@
+CRITICAL - 2023-11-07 03:31:51 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 74, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:33:05 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 74, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:33:06 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 74, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:33:13 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 74, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:35:24 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 81, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:37:51 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 81, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 03:38:25 --> Undefined index: Users.Id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\index.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 83, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+ERROR - 2023-11-07 03:45:50 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:45:50 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('4')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:47:03 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:47:03 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('4')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:48:38 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:48:38 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('4')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:50:43 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:50:43 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('4')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:54:57 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:54:57 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('2')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:55:01 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:55:01 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('3')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 03:55:20 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 03:55:20 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`karyawan`, CONSTRAINT `karyawan_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('5')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+ERROR - 2023-11-07 04:19:18 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`transaksi_masuk`, CONSTRAINT `transaksi_masuk_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+CRITICAL - 2023-11-07 04:19:18 --> Cannot delete or update a parent row: a foreign key constraint fails (`salonkeyla`.`transaksi_masuk`, CONSTRAINT `transaksi_masuk_ibfk_1` FOREIGN KEY (`Id_Role`) REFERENCES `role` (`Id`))
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ro...', 0)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ro...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ro...')
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ro...', Array, false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(155): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->delete('3')
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#12 {main}
+CRITICAL - 2023-11-07 04:41:38 --> Invalid file: users/edit.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/edit.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/edit', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(133): view('users/edit', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->edit('4')
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-07 04:57:48 --> Undefined variable: validation
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\update.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Mata Kuliah ...', 29, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/update', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(133): view('users/update', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->edit('4')
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 06:18:47 --> Undefined index: id
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\users\update.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 25, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/update', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(134): view('users/update', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->edit('4')
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-07 07:50:17 --> Undefined index: firstname
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(151): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Mata Kuliah ...', 151, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-07 07:51:03 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:51:27 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:51:29 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:51:29 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:51:31 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:52:08 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:52:57 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:53:33 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:53:35 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 07:53:35 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:00:52 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:01:27 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:01:41 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:05:18 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:05:21 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:05:48 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:05:56 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 08:07:11 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 12:51:00 --> Cannot declare class App\Controllers\Home, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-07 12:52:03 --> Cannot declare class App\Controllers\Home, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-11-07 13:16:31 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 13:57:07 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:07:21 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:26:08 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:28:10 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:41 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:42 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:43 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:43 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:44 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:44 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:44 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:29:50 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:13 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:13 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:13 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:14 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:14 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:14 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:14 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}
+CRITICAL - 2023-11-07 19:30:14 --> Too few arguments to function App\Controllers\Users::update(), 0 passed in D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->update()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#5 {main}

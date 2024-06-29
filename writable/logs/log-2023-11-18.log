@@ -1,0 +1,68 @@
+CRITICAL - 2023-11-18 02:15:57 --> Undefined property: App\Controllers\Stok::$1699981828_dd2c02ce9e63f9ef8884.jpg
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:25:04 --> Undefined property: App\Controllers\Stok::$1699981828_dd2c02ce9e63f9ef8884.jpg
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:25:45 --> Undefined property: App\Controllers\Stok::$1699981828_dd2c02ce9e63f9ef8884.jpg
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:28:00 --> Object of class App\Controllers\Stok could not be converted to string
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:31:10 --> Object of class App\Controllers\Stok could not be converted to string
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:31:13 --> Object of class App\Controllers\Stok could not be converted to string
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:31:22 --> Object of class App\Controllers\Stok could not be converted to string
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(184): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'D:\\Mata Kuliah ...', 184, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->update('9')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#6 {main}
+CRITICAL - 2023-11-18 02:47:38 --> Undefined offset: 12
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Views\stok\index.php(94): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'D:\\Mata Kuliah ...', 94, Array)
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(210): include('D:\\Mata Kuliah ...')
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('stok/index', Array, true)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Stok.php(27): view('stok/index', Array)
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Stok->index()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}

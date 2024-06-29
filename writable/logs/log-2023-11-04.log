@@ -1,0 +1,832 @@
+CRITICAL - 2023-11-04 02:53:24 --> Invalid file: user/index.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/index.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('user/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 02:55:29 --> Invalid file: user/index.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/index.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('user/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 02:58:04 --> Invalid file: user/index.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/index.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('user/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 02:58:26 --> Invalid file: user/index.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/index.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('user/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:01:09 --> Invalid file: template.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('template.php', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#9 {main}
+CRITICAL - 2023-11-04 03:01:13 --> Invalid file: template.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('template.php', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#9 {main}
+CRITICAL - 2023-11-04 03:03:50 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:04:41 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:05:35 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:06:42 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:06:48 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:06:52 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:07:18 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:14:08 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:15:17 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:18:54 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:19:14 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:21:10 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:22:14 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:10 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:26 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:34 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:40 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:53 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:58 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:51:59 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:52:09 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:53:47 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:54:15 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:54:44 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:54:55 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 03:56:23 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:01:13 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:02:05 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:02:16 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:02:23 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:02:33 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:03:44 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:04:05 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:04:21 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:04:28 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:04:50 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:05:18 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:06:13 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:06:23 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:06:32 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:06:41 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:06:47 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:07:21 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:12:06 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:12:42 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:12:58 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:13:15 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:21:29 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:22:32 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:22:36 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:22:44 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:22:55 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:27:18 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:28:33 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:28:42 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:28:48 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:29:05 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:29:27 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:29:34 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:29:41 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:29:46 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:30:17 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:52:06 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:52:16 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 04:52:23 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 05:00:48 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 05:03:35 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:12:30 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:13:05 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:14:17 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:14:49 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:15:48 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:16:14 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:17:18 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:17:30 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 10:18:43 --> Invalid file: layout/dashboard.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/dashboar...')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('layout/dashboar...', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(23): view('layout/dashboar...', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-04 19:59:11 --> syntax error, unexpected end of file
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('users/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('users/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}

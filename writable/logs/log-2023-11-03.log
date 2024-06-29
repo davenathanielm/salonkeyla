@@ -1,0 +1,86 @@
+ERROR - 2023-11-03 04:23:16 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2023-11-03 04:23:16 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Auth.php(59): CodeIgniter\BaseModel->first()
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Auth->auth()
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#10 {main}
+CRITICAL - 2023-11-03 11:21:13 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:21:34 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:21:40 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:21:42 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:21:46 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:22:03 --> Invalid file: user/create.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/create.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/create', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(31): view('user/create', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->create()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
+CRITICAL - 2023-11-03 11:24:06 --> Invalid file: user/index.php
+#0 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/index.php')
+#1 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('user/index', Array, true)
+#2 D:\Mata Kuliah sem 5\PADSI\salonkeyla\app\Controllers\Users.php(22): view('user/index', Array)
+#3 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Mata Kuliah sem 5\PADSI\salonkeyla\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Mata Kuliah sem 5\PADSI\salonkeyla\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\Mata Kuliah ...')
+#8 {main}
